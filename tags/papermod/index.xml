@@ -16,67 +16,10 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://sinelmo.github.io/posts/papermod_settings/</guid>
-      <description>기본 지식 .md =&amp;gt; markdown extension(확장자) test1 테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-test2 테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-test3 테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트
-테스트</description>
+      <description>기본 지식 .md =&amp;gt; markdown extension(확장자) disableFingerprinting이란? 참고 url :
+https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/ Failed to find a valid digest in the &amp;lsquo;integrity&amp;rsquo; attribute for resource&amp;hellip;
+와 같은 에러 문구가 콘솔에 떴을 때, config.toml에
+[params] [params.assets] disableFingerprinting = true 이렇게 적용 해 주면 해결이 된다. 그렇다면 disableFingerprinting이란 뭘까?</description>
     </item>
     
   </channel>
