@@ -19,5 +19,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>GitBlog</title>
+      <link>https://sinelmo.github.io/tags/gitblog/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://sinelmo.github.io/tags/gitblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://sinelmo.github.io/tags/github/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://sinelmo.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://sinelmo.github.io/tags/hugo/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://sinelmo.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaperMod</title>
+      <link>https://sinelmo.github.io/tags/papermod/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://sinelmo.github.io/tags/papermod/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
