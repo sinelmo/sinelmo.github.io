@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sinelmo.github.io/categories/</loc>
-    <lastmod>2023-01-15T17:47:34+09:00</lastmod>
+    <loc>https://sinelmo.github.io/diary/</loc>
+    <lastmod>2023-01-16T11:20:34+09:00</lastmod>
+  </url><url>
+    <loc>https://sinelmo.github.io/tags/diary/</loc>
+    <lastmod>2023-01-16T11:20:34+09:00</lastmod>
+  </url><url>
+    <loc>https://sinelmo.github.io/diary/230116/</loc>
+    <lastmod>2023-01-16T11:20:34+09:00</lastmod>
   </url><url>
     <loc>https://sinelmo.github.io/</loc>
+    <lastmod>2023-01-16T11:20:34+09:00</lastmod>
+  </url><url>
+    <loc>https://sinelmo.github.io/tags/</loc>
+    <lastmod>2023-01-16T11:20:34+09:00</lastmod>
+  </url><url>
+    <loc>https://sinelmo.github.io/categories/</loc>
     <lastmod>2023-01-15T17:47:34+09:00</lastmod>
   </url><url>
     <loc>https://sinelmo.github.io/tags/gitblog/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2023-01-15T17:47:34+09:00</lastmod>
   </url><url>
     <loc>https://sinelmo.github.io/posts/</loc>
-    <lastmod>2023-01-15T17:47:34+09:00</lastmod>
-  </url><url>
-    <loc>https://sinelmo.github.io/tags/</loc>
     <lastmod>2023-01-15T17:47:34+09:00</lastmod>
   </url><url>
     <loc>https://sinelmo.github.io/categories/til/</loc>
