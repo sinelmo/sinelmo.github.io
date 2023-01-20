@@ -9,7 +9,16 @@
       <link>https://sinelmo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Jan 2023 23:37:57 +0900</lastBuildDate><atom:link href="https://sinelmo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 18:45:02 +0900</lastBuildDate><atom:link href="https://sinelmo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diary</title>
+      <link>https://sinelmo.github.io/tags/diary/</link>
+      <pubDate>Fri, 20 Jan 2023 18:45:02 +0900</pubDate>
+      
+      <guid>https://sinelmo.github.io/tags/diary/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>java</title>
       <link>https://sinelmo.github.io/tags/java/</link>
@@ -43,15 +52,6 @@
       <pubDate>Wed, 18 Jan 2023 23:37:57 +0900</pubDate>
       
       <guid>https://sinelmo.github.io/tags/til/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diary</title>
-      <link>https://sinelmo.github.io/tags/diary/</link>
-      <pubDate>Mon, 16 Jan 2023 11:20:34 +0900</pubDate>
-      
-      <guid>https://sinelmo.github.io/tags/diary/</guid>
       <description></description>
     </item>
     
