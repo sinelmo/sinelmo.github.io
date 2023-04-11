@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API on Elmo&#39;s Blog</title>
+    <link>https://sinelmo.github.io/tags/api/</link>
+    <description>Recent content in API on Elmo&#39;s Blog</description>
+    <image>
+      <url>https://sinelmo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sinelmo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Apr 2023 21:23:00 +0900</lastBuildDate><atom:link href="https://sinelmo.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[API 실습]AWS RDS 서비스, HikariCP</title>
+      <link>https://sinelmo.github.io/posts/til/hikaricp/</link>
+      <pubDate>Mon, 10 Apr 2023 21:23:00 +0900</pubDate>
+      
+      <guid>https://sinelmo.github.io/posts/til/hikaricp/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

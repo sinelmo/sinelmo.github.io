@@ -9,7 +9,34 @@
       <link>https://sinelmo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 18:45:02 +0900</lastBuildDate><atom:link href="https://sinelmo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 22:28:00 +0900</lastBuildDate><atom:link href="https://sinelmo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[IntelliJ] com.zaxxer 또는 패키지 import 인식 오류</title>
+      <link>https://sinelmo.github.io/posts/til/230411_til/</link>
+      <pubDate>Tue, 11 Apr 2023 22:28:00 +0900</pubDate>
+      
+      <guid>https://sinelmo.github.io/posts/til/230411_til/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[API 실습]AWS RDS 서비스, HikariCP</title>
+      <link>https://sinelmo.github.io/posts/til/hikaricp/</link>
+      <pubDate>Mon, 10 Apr 2023 21:23:00 +0900</pubDate>
+      
+      <guid>https://sinelmo.github.io/posts/til/hikaricp/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[java] Arrays.asList, ArrayList, AWS RDS 서비스</title>
+      <link>https://sinelmo.github.io/posts/til/aslist-arraylist/</link>
+      <pubDate>Wed, 05 Apr 2023 23:00:00 +0900</pubDate>
+      
+      <guid>https://sinelmo.github.io/posts/til/aslist-arraylist/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Diary - 230120</title>
       <link>https://sinelmo.github.io/posts/diary/230120/</link>
